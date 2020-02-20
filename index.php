@@ -6,6 +6,7 @@
       while(have_posts()){
         the_post(); ?>
         <div class="col-md-6">
+          <?php the_post_thumbnail('thumbnail'); ?>
 
           <h3><?php the_title(); ?></h3>
 
