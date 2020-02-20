@@ -10,3 +10,7 @@ Theme Domain: live-theme
 h1 {
     color: green;
 }
+
+h3 {
+    text-transform: uppercase;
+}
