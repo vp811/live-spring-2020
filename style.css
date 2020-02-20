@@ -14,3 +14,7 @@ h1 {
 h3 {
     text-transform: uppercase;
 }
+
+.col-md-4 {
+    margin: 30px 0;
+}
